@@ -4,7 +4,7 @@
 Neste projeto, exploramos o potencial das IAs Generativas para criar imagens que imitam a realidade de forma impressionante. Inspirado pela hype "Natty or Not" do fisiculturismo, nosso desafio foi criar uma imagem que testasse a linha entre o real e o gerado por IA, utilizando o Midjourney para gerar uma cena altamente detalhada e sofisticada.
 
 <p align="center">
-  <img src="imagem/programmer.png" alt="Imagem de um programador na Itália" width="100%" />
+  <img src="imagem/programmer.png" alt="Imagem de um programador na Itália" width="50%" />
 </p>
 
 ## 🤖 Tecnologias Utilizadas
